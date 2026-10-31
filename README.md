@@ -17,7 +17,7 @@ Case studies on fraud response, third-party risk, KYC/KYB control gaps, and acco
 ### Background
 - FinTech Operations (non-custodial / Stellar)
 - Political Science + Public Policy (University of Buenos Aires + Harvard Kennedy School executive education)
-- Currently studying Cyber Defense (UNDEF)
+- Currently studying Cyber Risk Management (UNDEF)
 
 ### Contact
 - GitHub: [fpaterson](https://github.com/fpaterson)
