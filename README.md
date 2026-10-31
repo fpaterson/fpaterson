@@ -2,8 +2,10 @@
 # Francisco Paterson here
 
 Aspiring **GRC & Cybersecurity** professional with a background in FinTech operations.
+Aspiring GRC & Cybersecurity professional with a background in FinTech operations.
 
-I spent 3.5 years working in a non-custodial blockchain (Stellar) financial application, handling operations, fraud coordination, KYC/KYB escalations, and third-party relationships. I'm now transitioning into Governance, Risk & Compliance, combining that operational experience with formal studies in Cyber Defense and a foundation in public policy.
+I have spent the last 3.5 years working in a non-custodial blockchain (Stellar) financial application, where I currently handle operations, fraud coordination, KYC/KYB escalations, and third-party relationships. I'm now transitioning into Governance, Risk & Compliance, combining that operational experience with formal studies in Cyber Defense and a foundation in public policy.
+
 
 ### Current Focus
 - Building practical GRC case studies from real FinTech operational scenarios
